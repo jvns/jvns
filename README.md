@@ -5,5 +5,6 @@ The main repositories here are a Ruby profiler I wrote called [rbspy](https://gi
 Some other places you can find my work on the internet:
 
 * blog: https://jvns.ca
+* mastodon: https://social.jvns.ca/@b0rk
 * twitter: https://twitter.com/b0rk
 * zines: https://wizardzines.com
